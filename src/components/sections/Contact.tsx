@@ -36,7 +36,7 @@ const Contact = () => {
         e.preventDefault();
         setLoading(true);
         setTimeout(() => {
-            alert("Sorry unfortunatly this is under maintainance right now. But you can email me at pratiksharma3412@gmail.com. Sorry for the inconvenience.");
+            alert("Sorry unfortunatly this is under maintainance right now. But you can email me at pratiksharma3412@gmail.com. Thanks for the understanding :)");
             setForm(INITIAL_STATE)
             setLoading(false)
         }, 3000)

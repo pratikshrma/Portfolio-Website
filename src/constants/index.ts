@@ -83,6 +83,19 @@ const testimonials: TTestimonial[] = [
 ];
 
 const projects: TProject[] = [
+    // {
+    //     name: "Atlancer",
+    //     description:
+    //         "Contributed to a talent marketplace platform, building scalable web apps and 3D experiences using React, Node.js, Firebase, and Three.js.",
+    //     tags: [
+    //         { name: "react", color: "blue-text-gradient" },
+    //         { name: "node.js", color: "green-text-gradient" },
+    //         { name: "firebase", color: "pink-text-gradient" },
+    //         { name: "three.js", color: "blue-text-gradient" },
+    //     ],
+    //     image: "/5.png", // replace with an actual screenshot if available
+    //     sourceCodeLink: "https://atlancer.com/",
+    // },
     {
         name: "Particle Transition Animation",
         description:

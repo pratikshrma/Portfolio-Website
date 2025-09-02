@@ -70,7 +70,7 @@ export const config: TConfig = {
         about: {
             p: "Introduction",
             h2: "Overview.",
-            content: `I'm a Full Stack Developer with 3+ years of combined experience in IT 
+            content: `I'm a Full Stack Developer with 2+ years of combined experience in IT 
 management and software development. Skilled in React, TypeScript, Node.js, 
 Express, Firebase, Firestore, and Three.js. I’ve scaled SaaS platforms to 40,000+ 
 daily users, optimized performance, and delivered production-ready solutions. 

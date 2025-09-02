@@ -3,14 +3,16 @@ import { BrowserRouter } from "react-router-dom";
 import {
     About,
     Contact,
-    Experience,
+    // Experience,
     // Feedbacks,
     Hero,
     Navbar,
     Tech,
     Works,
     StarsCanvas,
+    ExperienceWorks
 } from "./components";
+
 import { useEffect } from "react";
 import { config } from "./constants/config";
 
@@ -29,7 +31,8 @@ const App = () => {
                     <Hero />
                 </div>
                 <About />
-                <Experience />
+                <ExperienceWorks />
+                {/* <Experience /> */}
                 <Tech />
                 <Works />
                 {/* <Feedbacks /> */}
